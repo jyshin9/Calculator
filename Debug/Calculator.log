@@ -1,0 +1,43 @@
+﻿  calculator2.c
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(41,27): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(54,34): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(84,12): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(84,7): warning C4024: 'init': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(91,26): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(91,21): warning C4024: 'is_empty': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(91,75): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(91,70): warning C4024: 'getTop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(92,26): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(92,21): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(94,14): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(94,9): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(97,14): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(97,9): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(100,19): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(100,14): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(104,20): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(104,15): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(113,24): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(113,19): warning C4024: 'is_empty': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(115,24): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Node **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(115,19): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(126,13): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(126,7): warning C4024: 'init': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(134,15): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(134,9): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(138,19): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(138,13): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(139,19): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(139,13): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(143,16): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(143,10): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(146,16): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(146,10): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(149,16): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(149,10): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(152,16): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(152,10): warning C4024: 'push': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(157,19): warning C4047: '함수': 'Stack *'의 간접 참조 수준이 'Stack **'과(와) 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(157,13): warning C4024: 'pop': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Calculator\calculator2.c(168,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Calculator.vcxproj -> C:\Users\jyshin\Desktop\tilon\03_프로젝트\Calculator\Calculator\Debug\Calculator.exe
